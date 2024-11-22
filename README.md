@@ -39,5 +39,8 @@ As classificações podem ser "positivo" ou "negativo".
 Resultados:
 Os resultados da análise serão exibidos no console e salvos em um arquivo CSV chamado resultados_analisados.csv.
 
+![image](https://github.com/user-attachments/assets/a02c7ed7-9da0-4993-aed1-6c2b9bb393e2)
+
+
 
 
